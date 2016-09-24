@@ -1,0 +1,23 @@
+{
+  "name": "scrapper-challenge",
+  "version": "1.0.0",
+  "description": "A web scrapper to aggregate education related information from verified sources",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scrapper",
+    "info",
+    "extraction"
+  ],
+  "author": "Agboola olaar",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.14.0",
+    "nodemon": "^1.10.0",
+    "request": "^2.74.0"
+  }
+}

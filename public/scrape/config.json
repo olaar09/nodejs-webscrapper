@@ -1,0 +1,11 @@
+{
+    "sources": {
+        "World_bank": "http://www.worldbank.org/en/topic/education",
+        "unicef": "http://data.unicef.org/education/overview.html",
+        "nces": "https://nces.ed.gov/",
+        "nigeria_gov": "http://www.education.gov.ng/",
+        "budgit": "http://yourbudgit.com/",
+        "global_edfund": "http://www.globaleducationfund.org/"
+    },
+    "tags": {}
+}
